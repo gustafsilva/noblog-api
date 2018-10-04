@@ -1,0 +1,32 @@
+{
+  "name": "noblog-api",
+  "version": "1.0.0",
+  "description": "Simple Blog API Rest, using Node, Restify, PostgreSQL, Docker and docker-compose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/gustafsilva/noblog-api"
+  },
+  "keywords": [
+    "api",
+    "blog",
+    "node",
+    "restify",
+    "postgres",
+    "apirest",
+    "js"
+  ],
+  "author": "Gustavo F. Silva",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.4"
+  }
+}
