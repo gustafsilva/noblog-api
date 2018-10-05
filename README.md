@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/gustafsilva/noblog-api.svg?branch=master)](https://travis-ci.org/gustafsilva/noblog-api)
 [![dependencies Status](https://david-dm.org/gustafsilva/noblog-api/status.svg)](https://david-dm.org/gustafsilva/noblog-api)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ed7443a1b3f34bdd938de6524f7b69b9)](https://app.codacy.com/app/gustafsilva/noblog-api?utm_source=github.com&utm_medium=referral&utm_content=gustafsilva/noblog-api&utm_campaign=Badge_Grade_Dashboard)
-[![Coverage Status](https://coveralls.io/repos/github/gustafsilva/noblog-api/badge.svg?branch=master)](https://coveralls.io/github/gustafsilva/noblog-api?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/gustafsilva/noblog-api/badge.svg?branch=feature%2Ftests)](https://coveralls.io/github/gustafsilva/noblog-api?branch=feature%2Ftests)
 
 
 Simple Blog API Rest, using Node, Restify, PostgreSQL, Docker and docker-compose.
