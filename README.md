@@ -27,6 +27,9 @@ $ npm start
 
 ### Ready! :+1: You can already hack the project. :sunglasses:
 
+## More Informations
+* [Database](./docs/database/DATABASE.md)
+
 ## Dependencies
 * [Node](https://nodejs.org/)
 * [NPM](https://www.npmjs.com/)
