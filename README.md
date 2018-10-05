@@ -1,4 +1,6 @@
-# Simple Blog API with Node Postgres + Restify
+# Simple Blog API with Node Postgres + Restify 
+[![Build Status](https://travis-ci.org/gustafsilva/noblog-api.svg?branch=master)](https://travis-ci.org/gustafsilva/noblog-api)
+
 Simple Blog API Rest, using Node, Restify, PostgreSQL, Docker and docker-compose.
 
 ## Getting Started :rocket:
