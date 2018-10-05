@@ -1,4 +1,5 @@
 # Simple Blog API with Node Postgres + Restify 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ed7443a1b3f34bdd938de6524f7b69b9)](https://app.codacy.com/app/gustafsilva/noblog-api?utm_source=github.com&utm_medium=referral&utm_content=gustafsilva/noblog-api&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/gustafsilva/noblog-api.svg?branch=master)](https://travis-ci.org/gustafsilva/noblog-api)
 
 Simple Blog API Rest, using Node, Restify, PostgreSQL, Docker and docker-compose.
