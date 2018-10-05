@@ -5,3 +5,5 @@ The SGBD used was [PostgreSQL](https://www.postgresql.org/) (version 9.6) and th
 ![Entity diagram and relationship](../img/noblog-api-diagram-entity.jpg)
 
 To access the **data dictionary**, click [here](./DATA_DICTIONARY.md) :book:
+
+To access SQL from the database, click [here](../../db/init.sql).
