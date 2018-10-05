@@ -4,7 +4,9 @@
   "description": "Simple Blog API Rest, using Node, Restify, PostgreSQL, Docker and docker-compose.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "jest": "jest",
+    "lint": "eslint src/",
+    "test": "npm run lint && npm run jest"
   },
   "repository": {
     "type": "git",
@@ -22,6 +24,7 @@
   "author": "Gustavo F. Silva",
   "license": "MIT",
   "dependencies": {
+    "ak-logger": "^1.1.1",
     "restify": "^7.2.1"
   },
   "devDependencies": {
