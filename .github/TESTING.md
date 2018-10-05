@@ -1,7 +1,7 @@
-# Testing Project :ballot_box_with_check:
+# Testing Project 
 We used some test libraries, they are:
 * [Jest](https://jestjs.io/)
-* [Eslint](https://eslint.org/)
+* [ESLint](https://eslint.org/)
 * [Travis](https://travis-ci.org/)
 * [Codacy](https://www.codacy.com/)
 * [David DM](https://david-dm.org/)
