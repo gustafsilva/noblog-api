@@ -2,3 +2,4 @@
 * [Gustavo F. Silva](https://github.com/gustafsilva)
 * [dinolin yp job](https://github.com/dinolinjob)
 * [Corinne Hare](https://github.com/corinnehuilin)
+* [Delviero Nigel](https://github.com/nigeldelviero)
