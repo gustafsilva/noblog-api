@@ -40,6 +40,7 @@ $ npm start
 
 ## More Informations
 * [Database](./docs/database/DATABASE.md)
+* [Instructions Testing](.github/TESTING.md)
 
 ## Contributing
 If you have found an error or want to improve the example, create an `issue` or `pull request`.
